@@ -1,0 +1,6 @@
+com\game\rock\Singleton.class
+com\game\rock\view\GameView.class
+com\game\rock\Main.class
+com\game\rock\view\MainMenu.class
+com\game\rock\controller\Controller.class
+com\game\rock\model\GameObject.class
